@@ -7,5 +7,5 @@ import { Component, VERSION } from '@angular/core';
 })
 export class AppComponent  {
   name = 'Angular ' + VERSION.major;
-  title = 'Online Check In';
+  title = 'Cov ID Pass';
 }
